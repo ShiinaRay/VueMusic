@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f584"],{b2db:function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("动态")])},u=[],a=n("1f56"),i={name:"UserEvent",data(){return{uid:""}},created(){this.uid=this.$route.params.uid,Object(a["b"])(this.uid).then(e=>{console.log(e)})},methods:{}},r=i,d=n("2877"),c=Object(d["a"])(r,s,u,!1,null,"9e63153a",null);t["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d20f584.9bf08210.js.map
